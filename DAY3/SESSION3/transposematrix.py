@@ -27,3 +27,4 @@ matrix=[[1,2,3],[4,5,6],[7,8,9]]
 print("Enter the matrix: ")
 matrix=[tuple(map(int,input().split())) for _ in range(m)]
 print(matrix)
+print(spiral)
